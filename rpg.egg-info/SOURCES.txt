@@ -1,0 +1,5 @@
+setup.py
+rpg.egg-info/PKG-INFO
+rpg.egg-info/SOURCES.txt
+rpg.egg-info/dependency_links.txt
+rpg.egg-info/top_level.txt
